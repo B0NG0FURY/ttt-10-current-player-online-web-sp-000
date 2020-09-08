@@ -4,5 +4,4 @@ def turn_count(board)
     |character|
     if character == "X" || character == "O"
       counter += 1
-    end
   end
